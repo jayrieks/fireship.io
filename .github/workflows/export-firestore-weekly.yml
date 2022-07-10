@@ -1,4 +1,5 @@
 name: Export Firestore Data
+market.spikey
 
 on:
   workflow_dispatch:
